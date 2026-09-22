@@ -3622,7 +3622,7 @@
 				qcom,mdss-dsi-v-bottom-border = <0>;
 
 				/* standard adfr */
-				qcom,mdss-dsi-h-sync-skew = <1>;
+				qcom,mdss-dsi-h-sync-skew = <0>;
 				oplus,adfr-min-fps-mapping-table = <60 30 20 10 5 1>;
 				oplus,adfr-idle-off-min-fps = <20>;
 
